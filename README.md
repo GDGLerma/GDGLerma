@@ -5,3 +5,4 @@
 - 👷 En este repositorio estaremos compartiendo con ustedes los proyectos que realicemos durante nuestros eventos.
 - 🌱 Hagamos juntos nuevas cosas, aprendamos cada día utilizando las mejores practicas y haciendo mas grande esta comunidad.
 - ✉️ Puedes enviarnos un correo: **gdg.lerma5@gmail.com**
+- 🤖 Te invitamos a seguirnos en nuestras redes sociales **https://linktr.ee/gdg.lerma.de.villada**
